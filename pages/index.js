@@ -5,8 +5,8 @@ import Link from 'next/link'
 export default () => (
   <div>
     <Head>
-      <title>Stage: realtime staging environments</title>
+      <title>stage.sh: realtime staging environments</title>
     </Head>
-    <p>Welcome to Stage</p>
+    <p>Welcome to stage.sh</p>
   </div>
 );
