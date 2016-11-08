@@ -8,5 +8,6 @@ export default () => (
       <title>stage.sh: realtime staging environments</title>
     </Head>
     <p>Welcome to stage.sh</p>
+    <p><i>realtime staging environments</i></p>
   </div>
 );
